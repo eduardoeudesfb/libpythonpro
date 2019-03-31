@@ -12,3 +12,4 @@ Tópicos a serem abordados:
  2. Virtualenv
  3. Pip
  
+ 
