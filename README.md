@@ -14,3 +14,4 @@ Tópicos a serem abordados:
  2. Virtualenv
  3. Pip
  
+ Alterado o arquivo .flake8
