@@ -30,3 +30,5 @@ Tópicos a serem abordados:
  3. Pip
  
  Alterado o arquivo .flake8
+ 
+ Testado uma issues #1
