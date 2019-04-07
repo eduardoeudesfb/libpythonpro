@@ -21,7 +21,6 @@ Para conferir qualidade de código:
 
 """console
 flake8
-
 """
 
 Tópicos a serem abordados:
