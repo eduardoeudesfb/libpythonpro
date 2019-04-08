@@ -23,6 +23,8 @@ Para conferir qualidade de código:
 flake8
 """
 
+Modificação do arquivo .travis.yml
+
 Tópicos a serem abordados:
  1. Git
  2. Virtualenv
